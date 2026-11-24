@@ -1,0 +1,1 @@
+SELECT * FROM vr_foundation.vs;
